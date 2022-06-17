@@ -1,0 +1,6 @@
+my/task/javacourse/entity/House.class
+my/task/javacourse/service/HouseService.class
+my/task/javacourse/repository/HouseRepository.class
+my/task/javacourse/controller/dto/HouseRequestDTO.class
+my/task/javacourse/Application.class
+my/task/javacourse/controller/HouseController.class
